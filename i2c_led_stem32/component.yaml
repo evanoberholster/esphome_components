@@ -1,0 +1,5 @@
+name: "i2c_led_stm32"
+version: "1.0"
+dependencies:
+  idf: esphome
+  i2c: esphome
